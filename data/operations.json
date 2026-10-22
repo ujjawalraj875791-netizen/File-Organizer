@@ -1,0 +1,56 @@
+{
+  "operations": [
+    {
+      "id": "9e3c9e45-9bbc-43fb-a1bf-a499e736c216",
+      "type": "categorize",
+      "timestamp": "2026-10-15T10:26:04",
+      "root": "C:\\Users\\aajad\\Desktop\\My Files",
+      "moves": [
+        {
+          "from": "C:\\Users\\aajad\\Desktop\\My Files\\1.docx",
+          "to": "C:\\Users\\aajad\\Desktop\\My Files\\Documents\\1.docx"
+        },
+        {
+          "from": "C:\\Users\\aajad\\Desktop\\My Files\\AI_Skill_suggestion.txt",
+          "to": "C:\\Users\\aajad\\Desktop\\My Files\\Documents\\AI_Skill_suggestion.txt"
+        },
+        {
+          "from": "C:\\Users\\aajad\\Desktop\\My Files\\Class_Work",
+          "to": "C:\\Users\\aajad\\Desktop\\My Files\\Others\\Class_Work"
+        },
+        {
+          "from": "C:\\Users\\aajad\\Desktop\\My Files\\desktop.ini",
+          "to": "C:\\Users\\aajad\\Desktop\\My Files\\Others\\desktop.ini"
+        },
+        {
+          "from": "C:\\Users\\aajad\\Desktop\\My Files\\DSC_6011.JPG",
+          "to": "C:\\Users\\aajad\\Desktop\\My Files\\Images\\DSC_6011.JPG"
+        },
+        {
+          "from": "C:\\Users\\aajad\\Desktop\\My Files\\Java - Copy.pdf",
+          "to": "C:\\Users\\aajad\\Desktop\\My Files\\Documents\\Java - Copy.pdf"
+        },
+        {
+          "from": "C:\\Users\\aajad\\Desktop\\My Files\\Lab.pdf",
+          "to": "C:\\Users\\aajad\\Desktop\\My Files\\Documents\\Lab.pdf"
+        },
+        {
+          "from": "C:\\Users\\aajad\\Desktop\\My Files\\movies.txt",
+          "to": "C:\\Users\\aajad\\Desktop\\My Files\\Documents\\movies.txt"
+        },
+        {
+          "from": "C:\\Users\\aajad\\Desktop\\My Files\\New Text Document.txt",
+          "to": "C:\\Users\\aajad\\Desktop\\My Files\\Documents\\New Text Document.txt"
+        },
+        {
+          "from": "C:\\Users\\aajad\\Desktop\\My Files\\TCS NQT Complete Preparation Sheet.pdf",
+          "to": "C:\\Users\\aajad\\Desktop\\My Files\\Documents\\TCS NQT Complete Preparation Sheet.pdf"
+        },
+        {
+          "from": "C:\\Users\\aajad\\Desktop\\My Files\\WhatsApp Image.jpeg",
+          "to": "C:\\Users\\aajad\\Desktop\\My Files\\Images\\WhatsApp Image.jpeg"
+        }
+      ]
+    }
+  ]
+}
